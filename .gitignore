@@ -1,3 +1,13 @@
+# Adding large_files folder and contents.
+large_files
+large_files/
+Movie_Data
+Movie_Data/
+ratings.csv
+movies_metadata.csv
+ratings.csv.iCloud
+movies_metadata.csv.iCloud
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
